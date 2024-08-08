@@ -1,0 +1,10 @@
+import Registrationform from "./Registrationform";
+import "./styles.css";
+
+export default function App() {
+  return (
+    <div className="App">
+      <Registrationform />
+    </div>
+  );
+}
